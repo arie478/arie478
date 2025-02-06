@@ -32,7 +32,7 @@ A description highlighting key technical features and solutions you've implement
 ### 🌱 Let's Connect!  
 I'm always excited to collaborate and explore new opportunities in tech.  
 
-💼 [LinkedIn](www.linkedin.com/in/arie-katz) | 🌍 [Portfolio Website](https://github.com/arie478) | 📧 [Email Me](mailto:ariekatz.dev@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/arie-katz) | 🌍 [Portfolio Website](https://github.com/arie478) | 📧 [Email Me](mailto:ariekatz.dev@gmail.com)  
 
 
 <!--
